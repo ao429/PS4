@@ -1,4 +1,3 @@
-# PS4
-CHEME7770 Problem Set 4
+# CHEME7770 Problem Set 4
 
-**This homework was done in collaboration with Julia Caserto**
+**This homework was done in collaboration with Julia Caserto.**
